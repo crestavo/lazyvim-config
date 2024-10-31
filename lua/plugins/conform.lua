@@ -18,6 +18,7 @@ return {
         blade = { "blade-formatter", "rustywind" },
         python = { "black" },
         javascript = { "prettierd" },
+        go = { "gofumpt", "golines" },
         -- rust = { "rustfmt" },
       },
       -- LazyVim will merge the options you set here with builtin formatters.

@@ -42,6 +42,7 @@ return {
       "php",
       "bash",
       "python",
+      "go",
     },
   },
 }

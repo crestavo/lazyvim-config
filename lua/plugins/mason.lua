@@ -30,6 +30,8 @@ return {
       "stylua",
       "tailwindcss-language-server",
       "vue-language-server",
+      "goimports",
+      "gofumpt",
     },
   },
 }
